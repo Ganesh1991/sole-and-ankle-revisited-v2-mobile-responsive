@@ -14,11 +14,11 @@ The design can be found on Figma:
 
 We'll use a **desktop-first** approach for this process, and our breakpoints will be set as follows:
 
-| Name   | Width (px) | Width (rem) |
-| ------ | ---------- | ----------- |
-| phone  | 600        | 37.5        |
-| tablet | 950        | 59.375      |
-| laptop | 1300       | 81.25       |
+  | Name   | Width (px) | Width (rem) |
+  | ------ | ---------- | ----------- |
+  | phone  | 600        | 37.5        |
+  | tablet | 950        | 59.375      |
+  | laptop | 1300       | 81.25       |
 
 ## Troubleshooting
 
